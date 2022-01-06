@@ -4,4 +4,4 @@ While I was walking with my brother, we were chatting about everyday life stuff,
 After this little talk, I started asking myself questions like, I've heard about school shootings in the USA but, I'm almost sure this isn't like this or at the same rates all across the USA, right?. All these ideas about school shootings are becoming an epidemic in the USA are just a hasty generalization fallacy, isn't it?.  Well, this was the moment when I realized I had gained enough skills to answer my questions by applying my data science stuff.
 
 
-Medium post: [a link](https://medium.com/@mariogo243/school-shootings-in-the-united-states-ccfa81089558)
+Medium post: https://medium.com/@mariogo243/school-shootings-in-the-united-states-ccfa81089558
